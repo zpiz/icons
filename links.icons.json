@@ -1,0 +1,10 @@
+{
+  "name": "Links的图标库",
+  "description": "收集一些自己常用的图标.",
+  "icons": [
+    {
+      "name": "hsyhs.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/hsyhs.png"
+    }
+  ]
+}

@@ -40,8 +40,8 @@ jobs:
       - name: Generate Commit Message
         id: msg
         run: |
-          # [Config] Change 'zpizicons/' below to match your image folder name
-          DIR="zpizicons/"
+          # [Config] Change 'icons/' below to match your image folder name
+          DIR="icons/"
           
           # Default message for manual triggers
           MSG="Manual update: Re-generated icon list [skip ci]"

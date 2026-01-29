@@ -1,0 +1,62 @@
+{
+  "name": "zpiz的图标库",
+  "description": "收集一些自己常用的图标.",
+  "icons": [
+    {
+      "name": "cdsc.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/cdsc.png"
+    },
+    {
+      "name": "hsyhs.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/hsyhs.png"
+    },
+    {
+      "name": "lbdq.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/lbdq.png"
+    },
+    {
+      "name": "nlsc.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/nlsc.png"
+    },
+    {
+      "name": "t3.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/t3.png"
+    },
+    {
+      "name": "thyc.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/thyc.png"
+    },
+    {
+      "name": "tlq.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/tlq.png"
+    },
+    {
+      "name": "wmtdd.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/wmtdd.png"
+    },
+    {
+      "name": "yocs.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/yocs.png"
+    },
+    {
+      "name": "ytw.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/ytw.png"
+    },
+    {
+      "name": "zeeho.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/zeeho.png"
+    },
+    {
+      "name": "zmhy.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/zmhy.png"
+    },
+    {
+      "name": "ztkd.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/ztkd.png"
+    },
+    {
+      "name": "ztkd1.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/ztkd1.png"
+    }
+  ]
+}

@@ -3,6 +3,10 @@
   "description": "收集一些自己常用的图标.",
   "icons": [
     {
+      "name": "cdsc.png",
+      "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/cdsc.png"
+    },
+    {
       "name": "hsyhs.png",
       "url": "https://raw.githubusercontent.com/zpiz/icons/main/icons/hsyhs.png"
     },

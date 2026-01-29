@@ -5,7 +5,7 @@ def generate_json():
     # 1. 配置文件夹路径
     # 注意：GitHub Actions 默认在仓库根目录运行，这里直接写文件夹名即可
     image_folder = 'icons'
-    output_filename = 'links.icons.json'
+    output_filename = 'zpiz.icons.json'
 
     # 2. 获取 GitHub 环境变量
     # 只有在 GitHub Actions 环境下才有这个变量 (格式: 用户名/仓库名)
@@ -17,7 +17,7 @@ def generate_json():
 
     # 3. 初始化 JSON 数据结构
     json_data = {
-        "name": "Links的图标库",
+        "name": "zpiz的图标库",
         "description": "收集一些自己常用的图标.",
         "icons": []
     }
